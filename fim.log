@@ -1,0 +1,4 @@
+2026-06-10 16:41:09 [INFO] Baseline initialized | folder=C:\Users\DELL\Downloads\file-integrity-monitor\file-integrity-monitor\test algo=sha256 files=1 id=20260610_164109
+2026-06-10 16:42:57 [WARNING] Integrity violations | modified=1 deleted=0 new=0
+2026-06-10 16:45:46 [WARNING] Integrity violations | modified=1 deleted=0 new=1
+2026-06-10 16:46:55 [WARNING] Integrity violations | modified=0 deleted=1 new=1
